@@ -1,7 +1,8 @@
 # Olá, eu sou o Gustavo Jesuino 👋
 
 Desenvolvedor em formação com foco em construir soluções completas — do mobile ao backend, passando por interfaces web e integrações com APIs. Estou cursando Engenharia de Software na UNIFAE e já entreguei projetos reais para clientes como freelancer.
-Tenho trabalhado bastante com TypeScript nos projetos mais recentes, e no dia a dia uso tecnologias como React, Next.js, React Native, Node.js e Express. Gosto de entender o problema antes de codar, e busco sempre escrever código limpo e que faça sentido de verdade.
+
+Tenho trabalhado bastante com **TypeScript** nos projetos mais recentes, e no dia a dia uso tecnologias como React, Next.js, React Native, Node.js e Express. Gosto de entender o problema antes de codar, e busco sempre escrever código limpo e que faça sentido de verdade.
 
 ---
 
@@ -52,6 +53,16 @@ Portfólio desenvolvido para apresentar meus projetos e habilidades.
 
 ![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoCJesu&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCJesu&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🐍 Minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoCJesu/GustavoCJesu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoCJesu/GustavoCJesu/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/GustavoCJesu/GustavoCJesu/output/github-snake.svg" />
+</picture>
 
 ---
 
