@@ -1,8 +1,7 @@
 # Olá, eu sou o Gustavo Jesuino 👋
 
-Desenvolvedor Fullstack em formação, cursando Engenharia de Software na UNIFAE. Gosto de trabalhar de ponta a ponta — do frontend ao banco de dados — e já entreguei projetos reais para clientes como freelancer.
-
-Atualmente focado em construir soluções com **React**, **Next.js** e **Node.js**, sempre buscando escrever código limpo e resolver problemas de verdade.
+Desenvolvedor em formação com foco em construir soluções completas — do mobile ao backend, passando por interfaces web e integrações com APIs. Estou cursando Engenharia de Software na UNIFAE e já entreguei projetos reais para clientes como freelancer.
+Tenho trabalhado bastante com TypeScript nos projetos mais recentes, e no dia a dia uso tecnologias como React, Next.js, React Native, Node.js e Express. Gosto de entender o problema antes de codar, e busco sempre escrever código limpo e que faça sentido de verdade.
 
 ---
 
