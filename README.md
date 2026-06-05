@@ -54,7 +54,7 @@ Portfólio desenvolvido para apresentar meus projetos e habilidades.
 ![Gustavo's GitHub Stats](https://github-readme-stats-beige-chi-52.vercel.app/api?username=GustavoCJesu&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats-beige-chi-52.vercel.app/api/top-langs/?username=GustavoCJesu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GustavoCJesu&theme=tokyonight&hide_border=true&locale=pt_BR)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GustavoCJesu&theme=tokyonight&hide_border=true&locale=pt_BR)
 
 ---
 
