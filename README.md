@@ -31,8 +31,8 @@ Site institucional com blog integrado para parque ecológico. Frontend em Next.j
 
 ---
 
-### 📱 [Controle de Presença em Eventos](https://github.com/GustavoCJesu/ControleDePresencaEmEventos)
-Aplicação mobile com fluxo completo de autenticação, consumo de API REST e leitura de QR Code para confirmação de presença.
+### 📱 [UnifaeCare](https://github.com/GustavoCJesu/UnifaeCare)
+Aplicação mobile com fluxo completo de autenticação, consumo de API REST para o curso de fisioterapia
 `React Native` `TypeScript` `Expo` `API REST`
 
 ---
